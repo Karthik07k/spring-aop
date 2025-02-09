@@ -1,4 +1,3 @@
-"# Spring AOP Demo" 
 # Spring Boot AOP - Aspect-Oriented Programming
 
 This repository demonstrates how to use **Spring AOP (Aspect-Oriented Programming)** to handle cross-cutting concerns such as logging, execution time tracking, and exception handling in a **Spring Boot** application.
