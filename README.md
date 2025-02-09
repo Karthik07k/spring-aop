@@ -151,12 +151,6 @@ mvn spring-boot:run
 | `within(com.example.service.UserService)` | Matches all methods within `UserService` |
 | `@annotation(org.springframework.transaction.annotation.Transactional)` | Matches methods annotated with `@Transactional` |
 
-## Contributing
-Fork this repository and submit a pull request with improvements.
-
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 📧 **Email:** [karthikkumarks50@gmail.com](mailto:karthikkumarks50@gmail.com)  
 🔗 **GitHub:** [github.com/karthik07k](https://github.com/karthik07k)  
